@@ -4,7 +4,7 @@ Benjamin Gundersen
 
 # Background
 
-I am a 23 year old computer science student at BYU-IdahJo! I knew before I even started school here that computer science is what I wanted to study. Ever since I ran the first code of my own in Junior High School, I have beem fascinated. I actually like both the hardware and software aspect of computers, but I keep the hardware aspect as more of a hobby. 
+I am a 23 year old computer science student at BYU-Idaho! I knew before I even started school here that computer science is what I wanted to study. Ever since I ran the first code of my own in Junior High School, I have beem fascinated. I actually like both the hardware and software aspect of computers, but I keep the hardware aspect as more of a hobby. 
 
 # Home
 
